@@ -27,10 +27,10 @@ No sponsorship needed. Open to BA / DA / DE roles, available Dec 2026.
 
 | Project | Tech | Highlights |
 |---|---|---|
-| [DualBranchSER — Speech Emotion Recognition](https://github.com/SunnyJaneH/DualBranchSER) | PyTorch · CNN · Bi-LSTM · MFCC | +15.8% over baseline, 55.9% acc on IEMOCAP |
-| [Network Intrusion Detection (GNN)](https://github.com/SunnyJaneH/network-intrusion-gnn) | GNN · Neo4j · GraphSMOTE · Python | 70GB logs, ETL → knowledge graph → GNN detection |
-| [Food Desert & Public Health Analysis](https://github.com/SunnyJaneH/food-desert-ml) | Scikit-learn · DBSCAN · Streamlit | 55%→68% acc · 2,275 counties · live dashboard |
-| [Automated Stock Analytics Pipeline](https://github.com/SunnyJaneH/stock-analytics-pipeline) | Airflow · dbt · Snowflake · AWS | End-to-end ELT · data quality tests · anomaly detection |
-| [Netflix Content Popularity Prediction](https://github.com/SunnyJaneH/netflix-prediction) | Python · Power BI · TF-IDF · SMOTE | 81% acc · AUC 0.75 · BI dashboard |
-| [TSLA Sentiment Pipeline](https://github.com/SunnyJaneH/tsla-sentiment) | Airflow · Snowflake · FastAPI · NLP | 24/7 automated sentiment monitoring |
-| [Distributed Spatial Join — Blue Brain](https://github.com/SunnyJaneH/blue-brain-seep) | C++ · Hadoop · MapReduce | TB-scale neuroscience data @ Imperial College |
+| [DualBranchSER — Speech Emotion Recognition] | PyTorch · CNN · Bi-LSTM | +15.8% over baseline · 55.9% acc |
+| [Food Desert & Public Health Analysis] | Scikit-learn · Streamlit · DBSCAN | 55%→68% acc · 2,275 counties |
+| [Automated Stock Analytics Pipeline] | Airflow · dbt · Snowflake | ELT pipeline · data quality tests |
+| Network Intrusion Detection (GNN) | GNN · Neo4j · GraphSMOTE | 70GB logs · threat detection *(coming soon)* |
+| Netflix Content Popularity Prediction | Python · Power BI · TF-IDF | 81% acc · AUC 0.75 *(coming soon)* |
+| TSLA Sentiment Pipeline | Airflow · Snowflake · NLP | 24/7 sentiment monitoring *(coming soon)* |
+| Distributed Spatial Join — Blue Brain | C++ · Hadoop · MapReduce | TB-scale data @ Imperial *(coming soon)* |
