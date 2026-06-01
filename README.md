@@ -19,7 +19,8 @@ MS in Applied Data Intelligence @ SJSU (Dec 2026) · Imperial College London Alu
 
 4 years as a Software PM leading 9 enterprise SaaS platforms · returned to SJSU in 2025 to build hands-on ML and data engineering skills · 7 end-to-end projects completed across deep learning, pipeline engineering, NLP, and business analytics.
 
-No sponsorship needed. Open to BA / DA / DE roles, available Dec 2026.
+Authorized to work in the US — no sponsorship needed.  
+Open to BA / DA / DE roles · Available Dec 2026.
 
 ---
 
@@ -27,10 +28,18 @@ No sponsorship needed. Open to BA / DA / DE roles, available Dec 2026.
 
 | Project | Tech | Highlights |
 |---|---|---|
-| [DualBranchSER — Speech Emotion Recognition] | PyTorch · CNN · Bi-LSTM | +15.8% over baseline · 55.9% acc |
-| [Food Desert & Public Health Analysis] | Scikit-learn · Streamlit · DBSCAN | 55%→68% acc · 2,275 counties |
-| [Automated Stock Analytics Pipeline] | Airflow · dbt · Snowflake | ELT pipeline · data quality tests |
+| [Food Desert & Public Health Analysis](https://github.com/SunnyJaneH/MLCountyHealth) | Scikit-learn · Streamlit · DBSCAN | 55%→68% acc · 2,275 counties |
+| [Automated Stock Analytics Pipeline](https://github.com/SunnyJaneH/lab2-StockAnalysis-dbt) | Airflow · dbt · Snowflake | ELT pipeline · data quality tests |
+| DualBranchSER — Speech Emotion Recognition | PyTorch · CNN · Bi-LSTM | +15.8% over baseline · 55.9% acc *(coming soon)* |
 | Network Intrusion Detection (GNN) | GNN · Neo4j · GraphSMOTE | 70GB logs · threat detection *(coming soon)* |
 | Netflix Content Popularity Prediction | Python · Power BI · TF-IDF | 81% acc · AUC 0.75 *(coming soon)* |
 | TSLA Sentiment Pipeline | Airflow · Snowflake · NLP | 24/7 sentiment monitoring *(coming soon)* |
 | Distributed Spatial Join — Blue Brain | C++ · Hadoop · MapReduce | TB-scale data @ Imperial *(coming soon)* |
+
+---
+
+## Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jie-heng-411741293/)
+- 📧 janeheng.ic@gmail.com
+- 🔓 H4 EAD · No sponsorship needed
