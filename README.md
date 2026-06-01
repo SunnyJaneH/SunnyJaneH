@@ -19,7 +19,7 @@ MS in Applied Data Intelligence @ SJSU (Dec 2026) · Imperial College London Alu
 
 4 years as a Software PM leading 9 enterprise SaaS platforms · returned to SJSU in 2025 to build hands-on ML and data engineering skills · 7 end-to-end projects completed across deep learning, pipeline engineering, NLP, and business analytics.
 
-Authorized to work in the US — no sponsorship needed. Open to BA / DA / DE roles, available Dec 2026.
+No sponsorship needed. Open to BA / DA / DE roles, available Dec 2026.
 
 ---
 
