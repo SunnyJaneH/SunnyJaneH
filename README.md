@@ -1,5 +1,4 @@
 # Hi, I'm Jie (Jane) Heng
-
 **Business Analyst · Data Analyst · Data Engineer**  
 MS in Applied Data Intelligence @ SJSU (Dec 2026) · Imperial College London Alumna  
 📍 San Jose, CA · ✉️ janeheng.ic@gmail.com · [LinkedIn](https://www.linkedin.com/in/jie-heng-411741293/)
@@ -16,7 +15,6 @@ MS in Applied Data Intelligence @ SJSU (Dec 2026) · Imperial College London Alu
 ---
 
 ## About me
-
 4 years as a Software PM leading 9 enterprise SaaS platforms · returned to SJSU in 2025 to build hands-on ML and data engineering skills · 7 end-to-end projects completed across deep learning, pipeline engineering, NLP, and business analytics.
 
 No sponsorship needed.  
@@ -36,8 +34,21 @@ Open to BA / DA / DE roles · Available Dec 2026.
 | TSLA Sentiment Pipeline | Automated 24/7 sentiment monitoring pipeline ingesting financial news — quantified market sentiment signals for Tesla stock using NLP and cloud data warehouse | Airflow · Snowflake · NLP | 24/7 monitoring · sentiment scoring *(coming soon)* |
 | Distributed Spatial Join — Blue Brain | Engineered TB-scale distributed pipeline processing neuroscience data at Imperial College London — reduced spatial join complexity using MapReduce optimization | C++ · Hadoop · MapReduce | TB-scale data · Imperial College *(coming soon)* |
 
-## Connect
+---
 
+## Daily Practice
+
+Consistently practicing data skills daily — solutions organized by topic.
+
+| Category | Platform | Completed | Topics Covered |
+|---|---|---|---|
+| [SQL](https://github.com/SunnyJaneH/Daily-Coding/tree/main/SQL) | StrataScratch | 20 problems | Filtering · Aggregations · Joins · Window Functions · Date & Time · Pattern Matching |
+| [Pandas](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Pandas) | LeetCode | 2 problems | DataFrame Basics |
+| [Python](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Python) | LeetCode | 5 problems | Array · Hash Map |
+
+---
+
+## Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/jie-heng-411741293/)
 - 📧 janeheng.ic@gmail.com
-- 🔓 H4 EAD · No sponsorship needed
+- 🔓 No sponsorship needed
