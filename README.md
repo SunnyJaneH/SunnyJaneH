@@ -1,6 +1,6 @@
 # Hi, I'm Jie (Jane) Heng
 **Business Analyst · Data Analyst · Data Engineer**  
-MS in Applied Data Intelligence @ San Jose State University · MS in Computing Science @ Imperial College London
+MS in Applied Data Intelligence @ San Jose State University · MS in Computing Science @ Imperial College London  
 📍 San Jose, CA · ✉️ janeheng.ic@gmail.com · [LinkedIn](https://www.linkedin.com/in/jie-heng-411741293/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
