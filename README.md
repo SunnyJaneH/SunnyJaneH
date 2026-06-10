@@ -38,7 +38,7 @@ Open to BA / DA / DE / DS roles · Available Dec 2026.
 
 ## Technical Domains
 
-Hands-on implementations organized by technical area — covering core ML theory through production deployment.
+Hands-on implementations organized by technical area — covering core ML&DL theory through production deployment.
 
 | Domain | Repository | Highlights |
 |--------|-----------|------------|
