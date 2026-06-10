@@ -15,10 +15,10 @@ MS in Applied Data Intelligence @ San Jose State University · MS in Computing S
 ---
 
 ## About me
-4 years as a Software PM leading 9 enterprise SaaS platforms · returned to SJSU in 2025 to build hands-on ML and data engineering skills · 7 end-to-end projects completed across deep learning, pipeline engineering, NLP, and business analytics.
+4 years as a Software PM leading 9 enterprise SaaS platforms · returned to SJSU in 2025 to build hands-on ML and data engineering skills · 8 end-to-end projects completed across deep learning, pipeline engineering, NLP, and business analytics.
 
 No sponsorship needed.  
-Open to BA / DA / DE roles · Available Dec 2026.
+Open to BA / DA / DE / DS roles · Available Dec 2026.
 
 ---
 
@@ -27,6 +27,7 @@ Open to BA / DA / DE roles · Available Dec 2026.
 | Project | Description | Tech | Highlights |
 |---|---|---|---|
 | [GNN-RAG Threat Detection — RAG Pipeline](https://github.com/SunnyJaneH/GNN-RAG-Detection) | Built CVE knowledge base enabling semantic threat retrieval — links network attacks to MITRE ATT&CK tactics for explainable cybersecurity analytics | Python · GNN · RAG · Pinecone · MITRE ATT&CK | 17,014 CVE vectors · 16.48ms latency · 8.89/10 avg severity |
+| [Deep Learning & Computer Vision](https://github.com/SunnyJaneH/DeepLearning-ComputerVision-PyTorch) | End-to-end DL projects from neural networks from scratch to NPU-deployed super resolution — covers CNN architectures, autoencoders, and full PyTorch → ONNX → INT8 NPU deployment pipeline | PyTorch · ONNX · CNN · NPU | LeNet-5 98.65% · JaneCNN 68.30% · SR PSNR 23.98dB · 13.18ms NPU latency |
 | [Food Desert & Public Health Analysis](https://github.com/SunnyJaneH/MLCountyHealth) | Analyzed socioeconomic and geographic factors driving food insecurity across 2,275 US counties — surfaced actionable insights via interactive dashboard | Scikit-learn · Streamlit · DBSCAN | 55%→68% acc · 2,275 counties · live dashboard |
 | [DualBranchSER — Speech Emotion Recognition](https://github.com/SunnyJaneH/DualBranchSER) | Developed dual-branch deep learning model classifying human emotions from audio — outperformed baseline by 15.8% using custom loss function on IEMOCAP dataset | PyTorch · CNN · Bi-LSTM | +15.8% over baseline · 55.9% acc |
 | [Automated Stock Analytics Pipeline](https://github.com/SunnyJaneH/lab2-StockAnalysis-dbt) | Designed end-to-end ELT pipeline ingesting NVIDIA stock data — automated data quality checks and built analytics-ready data models for financial reporting | Airflow · dbt · Snowflake | ELT pipeline · data quality tests · NVDA analysis |
@@ -44,7 +45,7 @@ Consistently practicing data skills daily — solutions organized by topic.
 |---|---|---|---|
 | [SQL](https://github.com/SunnyJaneH/Daily-Coding/tree/main/SQL) | StrataScratch | 30 problems | Filtering · Aggregations · Joins · Window Functions · Date & Time · Pattern Matching |
 | [Pandas](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Pandas) | LeetCode | 5 problems | DataFrame Basics |
-| [Python](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Python) | LeetCode | 7 problems | Array · Hash Map |
+| [Python](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Python) | LeetCode | 5 problems | Array · Hash Map |
 
 ---
 
