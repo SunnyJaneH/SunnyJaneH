@@ -38,7 +38,7 @@ Open to BA / DA / DE / DS roles · Available Dec 2026.
 
 ## Technical Domains
 
-Hands-on implementations organized by technical area — covering core ML&DL theory through production deployment.
+Hands-on implementations organized by technical area — covering core ML theory through production deployment.
 
 | Domain | Repository | Highlights |
 |--------|-----------|------------|
@@ -54,11 +54,12 @@ Hands-on implementations organized by technical area — covering core ML&DL the
 
 ## Daily Practice
 
-Consistently practicing data skills daily — solutions organized by topic.
+Consistently practicing data skills daily — solutions organized by topic.  
+🔗 [LeetCode Profile](https://leetcode.com/u/sunnyJane/)
 
 | Category | Platform | Completed | Topics Covered |
 |---|---|---|---|
-| [SQL](https://github.com/SunnyJaneH/Daily-Coding/tree/main/SQL) | StrataScratch | 31 problems | Filtering · Aggregations · Joins · Window Functions · Date & Time · Pattern Matching |
+| [SQL](https://github.com/SunnyJaneH/Daily-Coding/tree/main/SQL) | StrataScratch | 35 problems | Filtering · Aggregations · Joins · Window Functions · Date & Time · Pattern Matching · CTE |
 | [Pandas](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Pandas) | LeetCode | 8 problems | DataFrame Basics |
 | [Python](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Python) | LeetCode | 7 problems | Array · Hash Map |
 
