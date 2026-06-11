@@ -58,9 +58,9 @@ Consistently practicing data skills daily — solutions organized by topic.
 
 | Category | Platform | Completed | Topics Covered |
 |---|---|---|---|
-| [SQL](https://github.com/SunnyJaneH/Daily-Coding/tree/main/SQL) | StrataScratch | 30 problems | Filtering · Aggregations · Joins · Window Functions · Date & Time · Pattern Matching |
+| [SQL](https://github.com/SunnyJaneH/Daily-Coding/tree/main/SQL) | StrataScratch | 31 problems | Filtering · Aggregations · Joins · Window Functions · Date & Time · Pattern Matching |
 | [Pandas](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Pandas) | LeetCode | 5 problems | DataFrame Basics |
-| [Python](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Python) | LeetCode | 5 problems | Array · Hash Map |
+| [Python](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Python) | LeetCode | 7 problems | Array · Hash Map |
 
 ---
 
