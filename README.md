@@ -33,7 +33,7 @@ Open to BA / DA / DE / DS roles · Available Dec 2026.
 | [Food Desert & Public Health Analysis](https://github.com/SunnyJaneH/MLCountyHealth) | Analyzed socioeconomic and geographic factors driving food insecurity across 2,275 US counties — surfaced actionable insights via interactive dashboard | Scikit-learn · Streamlit · DBSCAN | 55%→68% acc · 2,275 counties · live dashboard |
 | [Deep Learning & Computer Vision](https://github.com/SunnyJaneH/DeepLearning-ComputerVision-PyTorch) | Implemented neural networks from scratch through super-resolution — covering LeNet-5, AlexNet, Autoencoder, and custom SR models deployed on NPU | PyTorch · CNN · Super-Resolution · NPU | NN from scratch · SR PSNR 23.98dB · NPU deployment |
 
-### Distributed Systems & Backend
+### Distributed Systems & Cloud Service
 
 | Project | Description | Tech | Highlights |
 |---------|-------------|------|------------|
