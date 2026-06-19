@@ -90,7 +90,7 @@ MS Applied Data Intelligence @ SJSU · MS Computing Science @ Imperial College L
 | Project | Description | Tech | Highlights |
 |---------|-------------|------|------------|
 | [KayakClone AI Agent](https://github.com/SunnyJaneH/KayakClone-AI-Agent) | AI concierge for a distributed travel platform — MRKL agent, semantic cache, Kafka pipeline, WebSocket alerts, React frontend | FastAPI · OpenAI · Redis · Kafka · React | 6 MRKL tools · 40% cache hit · 85ms p50 |
-| Airbnb Clone | Distributed property booking platform *(coming soon)* | | |
+| [Airbnb Clone — Distributed Booking Platform](https://github.com/SunnyJaneH/Airbnb-Clone-AWS) | Co-built distributed booking platform — Kafka event pipeline, MongoDB sessions, Redux state management, Docker/K8s deployment, JMeter load testing up to 500 concurrent users | React · Redux · Node.js · Kafka · MySQL · MongoDB · Docker · Kubernetes | HPA 2–5 replicas · 7-service docker-compose · JMeter @ 500 users |
 | Distributed Spatial Join — Blue Brain | TB-scale neuroscience data pipeline at Imperial College London using MapReduce | C++ · Hadoop · MapReduce | TB-scale data *(coming soon)* |
 
 #### Data Engineering & Warehouse
