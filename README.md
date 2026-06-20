@@ -25,7 +25,7 @@ MS Applied Data Intelligence @ SJSU · MS Computing Science @ Imperial College L
 - 💼 4 years as a Software PM leading 9 enterprise SaaS platforms — returned to build hands-on ML & data engineering skills
 - 🛠️ Built 8 end-to-end projects across deep learning, distributed systems, pipeline engineering, and analytics
 - 🤖 Exploring agentic AI systems: MRKL architecture, semantic caching, LLM-powered concierge agents
-- 📊 Daily practice in SQL, Pandas, and Python — [45+ problems solved](https://github.com/SunnyJaneH/Daily-Coding)
+- 📊 Daily practice in SQL, Pandas, and Python — [81 problems solved](https://github.com/SunnyJaneH/Daily-Coding)
 - 🔓 No sponsorship needed · Open to BA / DA / DE / DS roles · Available Dec 2026
 
 ---
@@ -112,8 +112,8 @@ MS Applied Data Intelligence @ SJSU · MS Computing Science @ Imperial College L
 
 | Category | Platform | Completed | Topics Covered |
 |----------|----------|-----------|-----------------|
-| [SQL](https://github.com/SunnyJaneH/Daily-Coding/tree/main/SQL) | StrataScratch | 50 problems | Filtering · Aggregations · Joins · Window Functions · Date & Time · Pattern Matching · CTE · Set Operations |
-| [Pandas](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Pandas) | LeetCode | 15 problems | DataFrame Basics · Reshape (concat/pivot/melt) · Method Chaining |
+| [SQL](https://github.com/SunnyJaneH/Daily-Coding/tree/main/SQL) | StrataScratch | 53 problems | Filtering · Aggregations · Joins · Window Functions · Date & Time · Pattern Matching · CTE · Set Operations |
+| [Pandas](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Pandas) | LeetCode | 18 problems | DataFrame Basics · Reshape (concat/pivot/melt) · Method Chaining |
 | [Python](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Python) | LeetCode | 10 problems | Array · Hash Map |
 
 ---
