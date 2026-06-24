@@ -24,8 +24,8 @@ MS Applied Data Intelligence @ SJSU · MS Computing Science @ Imperial College L
 - 🎓 BEng in eCommerce Engineering @ Queen Mary University of London
 - 💼 4 years as a Software PM leading 9 enterprise SaaS platforms — returned to build hands-on ML & data engineering skills
 - 🛠️ Built 8 end-to-end projects across deep learning, distributed systems, pipeline engineering, and analytics
-- 🤖 Exploring agentic AI systems: MRKL architecture, semantic caching, LLM-powered concierge agents
-- 📊 Daily practice in SQL, Pandas, and Python — [81 problems solved](https://github.com/SunnyJaneH/Daily-Coding)
+- 🤖 Exploring agentic AI systems — MRKL architecture, semantic caching, LLM-powered concierge agents
+- 📊 Daily practice in SQL, Pandas, and Python — [45+ problems solved](https://github.com/SunnyJaneH/Daily-Coding)
 - 🔓 No sponsorship needed · Open to BA / DA / DE / DS roles · Available Dec 2026
 
 ---
@@ -82,7 +82,7 @@ MS Applied Data Intelligence @ SJSU · MS Computing Science @ Imperial College L
 | Project | Description | Tech | Highlights |
 |---------|-------------|------|------------|
 | [GNN-RAG Threat Detection](https://github.com/SunnyJaneH/GNN-RAG-Detection) | CVE knowledge base with semantic threat retrieval — links network attacks to MITRE ATT&CK tactics | Python · GNN · RAG · Pinecone | 17,014 CVE vectors · 16.48ms latency |
-| [DualBranchSER: Speech Emotion Recognition](https://github.com/SunnyJaneH/DualBranchSER) | Dual-branch CNN + Bi-LSTM classifying emotions from audio, beating baseline on IEMOCAP | PyTorch · CNN · Bi-LSTM | +15.8% over baseline · 55.9% acc |
+| [DualBranchSER — Speech Emotion Recognition](https://github.com/SunnyJaneH/DualBranchSER) | Dual-branch CNN + Bi-LSTM classifying emotions from audio, beating baseline on IEMOCAP | PyTorch · CNN · Bi-LSTM | +15.8% over baseline · 55.9% acc |
 | [Food Desert & Public Health Analysis](https://github.com/SunnyJaneH/MLCountyHealth) | Socioeconomic drivers of food insecurity across 2,275 US counties, interactive dashboard | Scikit-learn · Streamlit · DBSCAN | 55%→68% acc · live dashboard |
 | [Deep Learning & Computer Vision](https://github.com/SunnyJaneH/DeepLearning-ComputerVision-PyTorch) | NN from scratch through super-resolution — LeNet-5, AlexNet, Autoencoder, NPU deployment | PyTorch · CNN · Super-Resolution | SR PSNR 23.98dB · NPU deployment |
 
@@ -90,13 +90,13 @@ MS Applied Data Intelligence @ SJSU · MS Computing Science @ Imperial College L
 | Project | Description | Tech | Highlights |
 |---------|-------------|------|------------|
 | [KayakClone AI Agent](https://github.com/SunnyJaneH/KayakClone-AI-Agent) | AI concierge for a distributed travel platform — MRKL agent, semantic cache, Kafka pipeline, WebSocket alerts, React frontend | FastAPI · OpenAI · Redis · Kafka · React | 6 MRKL tools · 40% cache hit · 85ms p50 |
-| [Airbnb Clone: Distributed Booking Platform](https://github.com/SunnyJaneH/Airbnb-Clone-AWS) | Co-built distributed booking platform — Kafka event pipeline, MongoDB sessions, Redux state management, Docker/K8s deployment, JMeter load testing up to 500 concurrent users | React · Redux · Node.js · Kafka · MySQL · MongoDB · Docker · Kubernetes | HPA 2–5 replicas · 7-service docker-compose · JMeter @ 500 users |
-| [Distributed Spatial Join: Blue Brain Project](https://bluebrainnexus.io/) | Master's thesis at Imperial College London — a data modeling sub-project within the Blue Brain Project, simulating mouse neurons and synapses at scale via a distributed spatial-join pipeline | C++ · Hadoop · MapReduce | TB-scale neuroscience data · MapReduce optimization |
+| [Airbnb Clone — Distributed Booking Platform](https://github.com/SunnyJaneH/Airbnb-Clone-AWS) | Co-built distributed booking platform — Kafka event pipeline, MongoDB sessions, Redux state management, Docker/K8s deployment, JMeter load testing up to 500 concurrent users | React · Redux · Node.js · Kafka · MySQL · MongoDB · Docker · Kubernetes | HPA 2–5 replicas · 7-service docker-compose · JMeter @ 500 users |
+| [Distributed Spatial Join — Blue Brain Project](https://bluebrainnexus.io/) | Master's thesis at Imperial College London — a data modeling sub-project within the Blue Brain Project, simulating mouse neurons and synapses at scale via a distributed spatial-join pipeline | C++ · Hadoop · MapReduce | TB-scale neuroscience data · MapReduce optimization |
 
 #### Data Engineering & Warehouse
 | Project | Description | Tech | Highlights |
 |---------|-------------|------|------------|
-| [Automated Stock Analytics Pipeline](https://github.com/SunnyJaneH/lab2-StockAnalysis-dbt) | End-to-end ELT pipeline for NVIDIA stock data with automated quality checks | Airflow · dbt · Snowflake | ELT pipeline · data quality tests |
+| [Stock Price Analytics System — ELT Pipeline](https://github.com/SunnyJaneH/lab2-StockAnalysis-dbt) | Designed and implemented an end-to-end ELT pipeline automating ingestion, transformation, and visualization of NVDA and AAPL stock data — computes moving averages and RSI for trend and momentum analysis | Airflow · dbt · Snowflake · Superset · Python | 360 days historical data · 20/50/200-day MA · RSI · Superset dashboards |
 | TSLA Sentiment Pipeline | 24/7 sentiment monitoring on financial news for Tesla stock | Airflow · Snowflake · NLP | 24/7 monitoring *(coming soon)* |
 
 #### Data Visualization & Analytics
@@ -112,8 +112,8 @@ MS Applied Data Intelligence @ SJSU · MS Computing Science @ Imperial College L
 
 | Category | Platform | Completed | Topics Covered |
 |----------|----------|-----------|-----------------|
-| [SQL](https://github.com/SunnyJaneH/Daily-Coding/tree/main/SQL) | StrataScratch | 53 problems | Filtering · Aggregations · Joins · Window Functions · Date & Time · Pattern Matching · CTE · Set Operations |
-| [Pandas](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Pandas) | LeetCode | 18 problems | DataFrame Basics · Reshape (concat/pivot/melt) · Method Chaining |
+| [SQL](https://github.com/SunnyJaneH/Daily-Coding/tree/main/SQL) | StrataScratch | 50 problems | Filtering · Aggregations · Joins · Window Functions · Date & Time · Pattern Matching · CTE · Set Operations |
+| [Pandas](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Pandas) | LeetCode | 15 problems | DataFrame Basics · Reshape (concat/pivot/melt) · Method Chaining |
 | [Python](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Python) | LeetCode | 10 problems | Array · Hash Map |
 
 ---
