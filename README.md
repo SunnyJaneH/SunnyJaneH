@@ -112,7 +112,7 @@ MS Applied Data Intelligence @ SJSU · MS Computing Science @ Imperial College L
 
 | Category | Platform | Completed | Topics Covered |
 |----------|----------|-----------|-----------------|
-| [SQL](https://github.com/SunnyJaneH/Daily-Coding/tree/main/SQL) | StrataScratch | 54 problems | Filtering · Aggregations · Joins · Window Functions · Date & Time · Pattern Matching · CTE · Set Operations |
+| [SQL](https://github.com/SunnyJaneH/Daily-Coding/tree/main/SQL) | StrataScratch | 57 problems | Filtering · Aggregations · Joins · Window Functions · Date & Time · Pattern Matching · CTE · Set Operations |
 | [Pandas](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Pandas) | LeetCode | 18 problems | DataFrame Basics · Reshape (concat/pivot/melt) · Method Chaining |
 | [Python](https://github.com/SunnyJaneH/Daily-Coding/tree/main/Python) | LeetCode | 10 problems | Array · Hash Map |
 
