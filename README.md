@@ -6,10 +6,6 @@ MS Applied Data Intelligence @ SJSU · MS Computing Science @ Imperial College L
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SunnyJaneH&style=flat&color=blue" alt="Profile Views"/>
-</p>
-
-<p align="center">
 📍 San Jose, CA &nbsp;·&nbsp; ✉️ janeheng.ic@gmail.com &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/jie-heng-411741293/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://leetcode.com/u/sunnyJane/">LeetCode</a>
